@@ -4,7 +4,7 @@
 
 Data accompanying the manuscript:
 
-> Tedersoo L, Liao Y, Mõttus A, Lorenz C, Friberg H, Hiiesalu I, Lees J, Kupagme J, Tammik K, Nolfi L, Kõiv M, Dulia O, Tabacchioni S, Vahter T, Annuk T, Mikryukov V, Mazina-Šinkar J, Gorbatsova J, Halling E, Leinus M, Laupa M, Gaponenko M, Bevivino A, Männistö M, Yli-Hemminki P, Loit K (2026) Soil health components, indicators and analytical solutions for croplands.
+> Tedersoo L, Liao Y, Mõttus A, Lorenz C, Halling E, Friberg H, Hiiesalu I, Lees J, Mazina-Šinkar J, Kupagme J, Tammik K, Nolfi L, Leinus M, Kõiv M, Dulia O, Tabacchioni S, Vahter T, Annuk T, Mikryukov V, Bevivino A, Männistö M, Yli-Hemminki P, Loit K (2026) Soil health components, indicators and analytical solutions for croplands.
 
 The study developed a multi-component Soil Health Index (SHI) for croplands and evaluated agrochemical, functional and DNA-based indicators of soil health. Soil samples were collected from 30 winter wheat fields in Estonia at two depths (0-10 cm, in two replicates, and 0-20 cm), giving 90 samples for DNA analyses.
 
