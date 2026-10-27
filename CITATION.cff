@@ -1,0 +1,101 @@
+cff-version: 1.2.0
+title: MultiSoil
+message: >-
+  If you use this dataset, please cite it using the metadata from this file.
+type: dataset
+authors:
+  - given-names: Leho
+    family-names: Tedersoo
+  - given-names: Yangchunzi
+    family-names: Liao
+  - given-names: Aleks
+    family-names: Mõttus
+  - given-names: Christian
+    family-names: Lorenz
+  - given-names: Evelin
+    family-names: Halling
+  - given-names: Hanna
+    family-names: Friberg
+  - given-names: Inga
+    family-names: Hiiesalu
+  - given-names: Jane
+    family-names: Lees
+  - given-names: Jekaterina
+    family-names: Mazina-Šinkar
+  - given-names: John
+    family-names: Kupagme
+  - given-names: Kerttu
+    family-names: Tammik
+  - given-names: Lorenzo
+    family-names: Nolfi
+  - given-names: Mari-Liis
+    family-names: Leinus
+  - given-names: Meelis
+    family-names: Kõiv
+  - given-names: Olesia
+    family-names: Dulia
+  - given-names: Silvia
+    family-names: Tabacchioni
+  - given-names: Tanel
+    family-names: Vahter
+  - given-names: Tiiu
+    family-names: Annuk
+  - given-names: Vladimir
+    family-names: Mikryukov
+  - given-names: Annamaria
+    family-names: Bevivino
+  - given-names: Minna
+    family-names: Männistö
+  - given-names: Pirjo
+    family-names: Yli-Hemminki
+  - given-names: Kaire
+    family-names: Loit
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23686306
+repository-code: 'https://github.com/Mycology-Microbiology-Center/MultiSoil'
+abstract: >-
+  This study aimed to develop a multi-component soil health
+  index for croplands and to identify agrochemical,
+  functional and DNA-based indicators of soil health. In
+  March-April, soil samples were collected from 30 winter
+  wheat fields on mineral soils across Estonia, following
+  the Soil BON sampling design. At each site, nine soil
+  cores were taken from a 30 m x 30 m plot and pooled
+  separately for the 0-10 cm and 0-20 cm depths. DNA was
+  extracted from dried composite samples: two replicates
+  from 0-10 cm and one from 0-20 cm, giving 90 samples in
+  total. Prokaryotes were profiled by sequencing the 16S
+  rRNA gene V4-V5 region (primers 515F/926R) on Illumina
+  NovaSeq. Fungi and protists were profiled by sequencing
+  the full-length ITS region (primers ITS9mun/ITS4ngsUni) on
+  PacBio Revio. Soil animals were profiled by sequencing the
+  mitochondrial COI gene (primers mlCOIintF/jgHCO2198) on
+  Illumina NovaSeq. A subset of 0-10 cm DNA samples
+  underwent shotgun metagenomic sequencing on Illumina
+  NovaSeq. The metagenomes were used to quantify genes
+  involved in nitrogen and sulphur cycling,
+  carbohydrate-active enzymes and antibiotic resistance
+  genes. The sequence data were analysed together with soil
+  agrochemical, biogeochemical, microbial activity and
+  nematode data to build the soil health index and evaluate
+  candidate indicators. The study was funded by the EU
+  Horizon project MultiSoil.                            
+keywords:
+  - metabarcoding
+  - soil health
+  - soil health index
+  - cropland
+  - winter wheat
+  - Estonia
+  - soil microbiome
+  - 16S rRNA
+  - ITS
+  - COI
+  - bacteria
+  - fungi
+  - protists
+  - soil fauna
+  - Soil BON
+  - amplicon sequencing
+license: CC0-1.0
