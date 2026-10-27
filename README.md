@@ -1,5 +1,7 @@
 # MultiSoil
 
+[![DOI](https://zenodo.org/badge/1435362980.svg)](https://doi.org/10.5281/zenodo.23686305)
+
 <img src="assets/MycologyMicrobiologyCenter_logo.png" alt="Mycology and Microbiology Center" width="140" align="right">
 
 Data accompanying the manuscript:
