@@ -52,7 +52,7 @@ authors:
     family-names: Loit
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.23686306
+    value: 10.5281/zenodo.23686305
 repository-code: 'https://github.com/Mycology-Microbiology-Center/MultiSoil'
 abstract: >-
   This study aimed to develop a multi-component soil health
