@@ -26,3 +26,9 @@ Bioinformatic processing:
 
 See the Methods section of the manuscript for details.
 
+## Raw data
+
+DNA sequences recovered in this study (amplicons and shotgun metagenomes) were deposited in the European Nucleotide Archive (ENA) under project accession [PRJEB129066](https://www.ebi.ac.uk/ena/browser/view/PRJEB129066).
+
+
+
