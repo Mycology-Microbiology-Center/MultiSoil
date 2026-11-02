@@ -31,7 +31,15 @@ See the Methods section of the manuscript for details.
 
 ## Raw data
 
-DNA sequences recovered in this study (amplicons and shotgun metagenomes) were deposited in the European Nucleotide Archive (ENA) under project accession [PRJEB129066](https://www.ebi.ac.uk/ena/browser/view/PRJEB129066).
+DNA sequences recovered in this study (amplicons and shotgun metagenomes) were deposited in the European Nucleotide Archive (ENA) under project accession [PRJEB129066](https://www.ebi.ac.uk/ena/browser/view/PRJEB129066) (accession numbers ERR18091531-ERR18091826).
+
+| Target           | ENA accession numbers     |
+| ---------------- | ------------------------- |
+| 16S rRNA         | ERR18091531 - ERR18091620 |
+| COI              | ERR18091621 - ERR18091708 |
+| Total metagenome | ERR18091709 - ERR18091738 |
+| ITS              | ERR18091739 - ERR18091826 |
+
 
 ## Funding
 
